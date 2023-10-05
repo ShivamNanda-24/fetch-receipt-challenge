@@ -1,4 +1,4 @@
-module receipt-processor
+module receipt-processor-challenge
 
 go 1.21.1
 

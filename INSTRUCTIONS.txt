@@ -1,0 +1,8 @@
+
+1. git clone https://github.com/ShivamNanda-24/fetch-receipt-challenge.git
+
+2. go run ./main.go
+
+3. Postman to test the API calls on localhost:8080 :
+            POST - http://localhost:8080/receipts/process  - returns id 
+            GET - http://localhost:8080/receipts/:id/points - returns points
